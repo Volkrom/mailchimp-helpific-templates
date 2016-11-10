@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Helpific</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="format-detection" content="telephone=no"> 
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+        <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+        
+    <style type="text/css">
+		body{
+			margin:0;
+			padding:30px 0 0 0;
+			min-width:100%!important;
+			font-family:'Open Sans', sans-serif;
+			color:#111111;
+			font-size:16px;
+		}
+		.content{
+			width:100%;
+			max-width:600px;
+		}
+		h2{
+			font-size:36px;
+			font-weight:500;
+			color:#494c4e;
+			margin:15px 0;
+		}
+		.ptag{
+			font-size:16px;
+			color:#575757;
+		}
+		.title{
+			padding:0;
+			margin:0;
+		}
+		hr{
+			background-color:#cbcbcb;
+			height:1px;
+			border:0;
+		}
+		.button a{
+			-webkit-border-radius:2;
+			-moz-border-radius:2;
+			border-radius:2px;
+			color:#494c4e;
+			font-size:16px;
+			padding:15px 35px;
+			background-color:#f1f1f1;
+			text-decoration:none;
+			font-weight:500;
+			box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+			border:1px solid #dedede;
+		}
+	@media only screen and (max-width: 601px){
+		.content{
+			padding:30px 10px 30px 10px !important;
+		}
+
+}	@media only screen and (max-width: 601px){
+		.h2{
+			font-size:24px;
+		}
+
+}	@media only screen and (max-width: 601px){
+		.ptag{
+			font-size:14px;
+		}
+
+}</style></head>
+    <body bgcolor="#f7f7f7" style="background-color: #f7f7f7; padding-bottom: 15px;">
+        <table bgcolor="#ffffff" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; box-shadow: 0 14px 28px rgba(0,0,0,0.08), 0 10px 10px rgba(0,0,0,0.04); border:1px solid #dedede; max-width: 600px; clear: both; max-height: 230px; padding-top: 30px;">
+        <tr><!-- Colored stripe -->
+            <td style="height: 10px; background-color: #f4b351; width: 100%;"></td>
+        </tr><!-- End of colored stripe -->
+          <tr>
+            <td align="center" style="padding: 30px 0px 0px 0px;">
+                <img src="https://helpific.com/images/helpific-logo-text-hr.png" alt="Helpific Logo" width="auto" height="40" style="display: block;">
+            </td>
+          </tr>
+          <tr>
+              <td>
+                  <table width="100%" style="padding: 30px 40px 50px 40px; text-align: center;" class="content">
+                 <tr>
+          			<td mc:edit="category" align="center" style="font-size: 12px; color: #bababa;"><p>CATEGORY</p>
+</td>
+         		</tr>
+                    <tr class="h2">
+                        <td mc:edit="header" class="title" style="padding-bottom: 20px; line-height: normal;"><h2 class="title">Tervist Helpific veebiplatvormi huvilised!</h2>
+</td>
+                    </tr>
+                    <tr>
+                        <td mc:edit="body" class="ptag" style=" padding-bottom: 35px;"><p>Kogukonna hoolivus ja &uuml;ksteise abistamise lihtsus on need v&otilde;tmes&otilde;nad, mis v&otilde;imaldavad l&auml;bi Helpifici platvormi vabatahtlikel pakkuda abi ning erivajadustega inimestel rakendada oma oskusi, teadmisi, v&otilde;imeid ja elada elu piirideta.</p>
+</td>
+                    </tr>
+                    <tr class="button">
+                    	<td mc:edit="content_button"></td>
+                    </tr>
+                  </table>
+              </td>
+          </tr>
+         </table>
+
+         <table align="center" style="padding: 30px 0">
+             <tr>
+    <td class="footer">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="center" style="font-size: 12px; color: #b4b4b4">
+                    Email sent by Helpific
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="padding: 20px 0 0 0;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="37" style="text-align: center; padding: 0 10px 0 10px;">
+                                <a target="_blank" href="https://www.facebook.com/Helpific">
+                                    <img src="https://gallery.mailchimp.com/734a651ea51e82a5ce61c7157/images/e85b1d2c-8efe-464b-bc0e-8fca5b412a46.png" width="37" height="37" alt="Facebook Helpific" border="0">
+                                </a>
+                            </td>
+                            <td width="37" style="text-align: center; padding: 0 10px 0 10px;">
+                                <a target="_blank" href="https://twitter.com/helpific">
+                                    <img src="https://gallery.mailchimp.com/734a651ea51e82a5ce61c7157/images/2c5d909f-72fb-47f6-92c8-70e4e9f67631.png" width="37" height="37" alt="Twitter Helpific" border="0">
+                                </a>
+                            </td>
+                            <td width="37" style="text-align: center; padding: 0 10px 0 10px;">
+                                <a target="_blank" href="http://vabatahtlik.helpific.com/">
+                                    <img src="https://gallery.mailchimp.com/734a651ea51e82a5ce61c7157/images/6ecd2509-421e-4ef2-b48a-f29bb400a72e.png" width="37" height="37" alt="vabatahtlik Helpific" border="0">
+                                </a>
+                            </td>
+                            <td width="37" style="text-align: center; padding: 0 10px 0 10px;">
+                                <a target="_blank" href="http://volunteer.helpific.com/">
+                                    <img src="https://gallery.mailchimp.com/734a651ea51e82a5ce61c7157/images/6ecd2509-421e-4ef2-b48a-f29bb400a72e.png" width="37" height="37" alt="Volunteer Helpific" border="0">
+                                </a>
+                            </td>
+                            <td width="37" style="text-align: center; padding: 0 10px 0 10px;">
+                                <a target="_blank" href="https://www.youtube.com/channel/UC0b5JqEQXdZuex5TNKSpoug">
+                                    <img src="https://gallery.mailchimp.com/734a651ea51e82a5ce61c7157/images/288e2f18-eff7-44c6-a4b9-2fc20a26efa1.png" width="37" height="37" alt="YouTube" border="0">
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+         </table>
+
+         <table align="center" style="max-width: 600px; width: 100%; padding-bottom: 30px;">
+         <tr>
+         	<td>
+         		<hr>
+         	</td>
+         </tr>
+         	<tr>
+         		<td>
+         			<table width="100%" style="padding: 30px 40px 30px 40px;" class="content">
+         				<tr>
+         					<td style="font-size: 14px; font-weight: 500; color: #757575;">
+         					Austatud Helpific veebiplatvormi huviline, kogume annetusi veebiplatvormi edasiseks arenduseks. <br><br> Ka Sinul on võimalik panustada, tehes annetuse Helpific MTÜ'le.
+         					</td>
+         				</tr>
+         				<tr>
+         					<td style="font-size: 12px; font-weight: 100;"><br>
+         						HELPIFIC MTÜ*<br>
+								Reg nr: 80380146<br>
+								Konto: EE102200221061303677<br>
+								SWIFT kood/BIC: HABAEE2X<br>
+								SWEDBANK<br>
+								Selgitus: annetus, veebiplatvorm<br>
+ 								<br>
+								<i>* Helpific on kantud tulumaksusoodustusega mittetulundusühingute ühenduste nimekirja</i>
+         					</td>
+         				</tr>
+         			</table>
+         		</td>
+         	</tr>
+
+         	<tr>
+         		<td>
+         		<hr>
+         		</td>
+         	</tr>
+
+         	<tr>
+         		<td align="center" style="font-size: 12px; color: #b4b4b4; line-height: 20px; padding-top: 20px;">
+         			Copyright © 2016 Helpific, all rights reserved.<br><br>
+
+					Our address is:<br>
+					Helpific Mäealuse 2/1 Tallinn 12618 Estonia <br><br>
+
+					Want to change how you receive these emails?<br>
+					You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>
+				</td>
+         	</tr>
+
+         </table>
+    </body>
+</html>
